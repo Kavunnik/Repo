@@ -1,0 +1,12 @@
+C:\Users\CSharpSila\source\repos\RestaurantApp\Models\bin\Debug\Models.dll
+C:\Users\CSharpSila\source\repos\RestaurantApp\Models\bin\Debug\Models.pdb
+C:\Users\CSharpSila\source\repos\RestaurantApp\Models\obj\Debug\Models.csprojAssemblyReference.cache
+C:\Users\CSharpSila\source\repos\RestaurantApp\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\CSharpSila\source\repos\RestaurantApp\Models\obj\Debug\Models.dll
+C:\Users\CSharpSila\source\repos\RestaurantApp\Models\obj\Debug\Models.pdb
+C:\Users\adm\Desktop\RestaurantApp\Models\bin\Debug\Models.dll
+C:\Users\adm\Desktop\RestaurantApp\Models\bin\Debug\Models.pdb
+C:\Users\adm\Desktop\RestaurantApp\Models\obj\Debug\Models.csprojAssemblyReference.cache
+C:\Users\adm\Desktop\RestaurantApp\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\adm\Desktop\RestaurantApp\Models\obj\Debug\Models.dll
+C:\Users\adm\Desktop\RestaurantApp\Models\obj\Debug\Models.pdb

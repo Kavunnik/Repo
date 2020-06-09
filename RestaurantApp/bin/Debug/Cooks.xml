@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<ArrayOfCook xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Cook>
+    <Name>John Doe</Name>
+    <Specialization>meat-master</Specialization>
+    <TimeToBecomeFree>0</TimeToBecomeFree>
+  </Cook>
+  <Cook>
+    <Name>George Floyd</Name>
+    <Specialization>sushi-master</Specialization>
+    <TimeToBecomeFree>0</TimeToBecomeFree>
+  </Cook>
+</ArrayOfCook>

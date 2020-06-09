@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<ArrayOfDish xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Dish>
+    <Name>Sushi California</Name>
+    <CookingTime>15</CookingTime>
+    <Specialization>sushi-master</Specialization>
+  </Dish>
+  <Dish>
+    <Name>Sushi Philadelphia</Name>
+    <CookingTime>20</CookingTime>
+    <Specialization>sushi-master</Specialization>
+  </Dish>
+  <Dish>
+    <Name>Steak</Name>
+    <CookingTime>30</CookingTime>
+    <Specialization>meat-master</Specialization>
+  </Dish>
+  <Dish>
+    <Name>Sausages</Name>
+    <CookingTime>25</CookingTime>
+    <Specialization>meat-master</Specialization>
+  </Dish>
+</ArrayOfDish>
